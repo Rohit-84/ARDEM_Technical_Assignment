@@ -1,1 +1,6 @@
 PyMuPDF
+matplotlib
+cv2
+numpy
+
+-e .

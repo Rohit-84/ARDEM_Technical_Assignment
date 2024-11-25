@@ -20,6 +20,6 @@ def pdf_to_png(pdf_files, output_dir):
             print(f"Error processing {pdf_file}: {e}")
 
 # Example usage
-pdf_files = ["pdf_path/1.pdf", "pdf_path/2.pdf"]  # List of PDF paths
+pdf_files = ["pdf_path/1.pdf", "pdf_path/2.pdf", "pdf_path/3.pdf", "pdf_path/4.pdf", "pdf_path/5.pdf", "pdf_path/6.pdf", "pdf_path/7.pdf", "pdf_path/8.pdf"]  # List of PDF paths
 output_dir = "output_images"
 pdf_to_png(pdf_files, output_dir)
